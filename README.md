@@ -15,7 +15,6 @@ Current Tool List:
 
 
 # TURKISH
-Enes's Tools
 Bu repoda çeşitli işe yarayacak ufak toollar scriptler yer alacaktır. 
 
 Güncel Tool Listesi:
