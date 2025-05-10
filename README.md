@@ -4,7 +4,7 @@ Enes's Tools
 This repository will contain various small tools and scripts that will be useful for different tasks.
 
 Current Tool List:
-- Python-based phone number generator
+- Python-based phone number generator(main/phone_number_generator.py)
 
 
 
@@ -18,4 +18,4 @@ Current Tool List:
 Bu repoda çeşitli işe yarayacak ufak toollar scriptler yer alacaktır. 
 
 Güncel Tool Listesi:
-- Python ile telefon numarası üreteci 
+- Python ile telefon numarası üreteci(main/phone_number_generator.py)
