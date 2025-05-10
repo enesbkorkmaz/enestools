@@ -5,7 +5,7 @@ This repository will contain various small tools and scripts that will be useful
 
 Current Tool List:
 
-Python-based phone number generator
+-Python-based phone number generator
 
 
 
